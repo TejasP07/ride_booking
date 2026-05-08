@@ -1,0 +1,131 @@
+{
+  "@@locale": "ar",
+
+  "appName": "وا بيكي",
+  "loading": "جار التحميل...",
+
+  "smartVehicle": "منصة خدمات المركبات الذكية",
+
+  "login": "تسجيل الدخول",
+
+  "verifyOtp": "تأكيد الرمز",
+
+  "enterOtp": "أدخل الرمز",
+
+  "verify": "تأكيد",
+
+  "enterMobile": "أدخل رقم الهاتف",
+
+  "welcome": "مرحبًا",
+
+  "quickActions": "الإجراءات السريعة",
+
+  "vehicles": "المركبات",
+
+  "myVehicles": "مركباتي",
+
+  "services": "الخدمات",
+
+  "manageServices": "إدارة خدماتك بسهولة",
+
+  "addVehicle": "إضافة مركبة",
+
+  "vehicleName": "اسم المركبة",
+
+  "vehicleType": "نوع المركبة",
+
+  "registrationNumber": "رقم التسجيل",
+
+  "selectVehicleImage": "اختر صورة المركبة",
+
+  "noVehiclesFound": "لم يتم العثور على مركبات",
+
+  "noServicesFound": "لم يتم العثور على خدمات",
+
+  "deleteVehicle": "حذف المركبة",
+
+  "areYouSure": "هل أنت متأكد؟",
+
+  "cancel": "إلغاء",
+
+  "delete": "حذف",
+
+  "somethingWentWrong": "حدث خطأ ما",
+
+
+  "otpSentSuccessfully": "تم إرسال الرمز بنجاح",
+
+  "failedToSendOtp": "فشل إرسال الرمز",
+
+  "loginSuccessful": "تم تسجيل الدخول بنجاح",
+
+  "invalidOtp": "رمز غير صالح",
+
+  "vehicleAddedSuccessfully": "تمت إضافة المركبة بنجاح",
+
+  "failedToAddVehicle": "فشل إضافة المركبة",
+
+  "vehicleDeletedSuccessfully": "تم حذف المركبة بنجاح",
+
+  "failedToDeleteVehicle": "فشل حذف المركبة",
+
+  "language": "اللغة",
+
+  "requiredField": "هذا الحقل مطلوب",
+
+  "activeServices": "الخدمات النشطة",
+
+  "retry": "إعادة المحاولة",
+
+  "home": "الرئيسية",
+
+  "settings": "الإعدادات",
+
+  "logout": "تسجيل الخروج",
+
+  "invalidMobileNumber": "رقم الهاتف غير صالح",
+
+  "enterValidEmailOrMobile": "أدخل بريدًا إلكترونيًا أو رقم هاتف صالحًا",
+
+  "vehicleNumberRequired": "رقم المركبة مطلوب",
+
+  "invalidVehicleNumber": "رقم المركبة غير صالح",
+
+  "signInToAccount": "تسجيل الدخول إلى\nحسابك",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "signUp": "إنشاء حساب",
+  "sendOtp": "إرسال رمز التحقق",
+  "termsLine": "بالتسجيل، فإنك توافق على ",
+  "termsOfService": "شروط الخدمة",
+  "privacyPolicy": "سياسة الخصوصية",
+  "and": "و",
+
+  "bookNow": "احجز الآن",
+
+  "enterCode": "أدخل الرمز",
+  "otpDescription": "لقد أرسلنا رمز التفعيل إلى هاتفك ",
+  "sendCodeAgain": "إعادة إرسال الرمز",
+  "chooseVehicleType": "اختر نوع المركبة",
+  "fourWheeler": "أربع عجلات",
+  "twoWheeler": "دراجتان",
+  "continueText": "متابعة",
+  "change": "تغيير",
+  "addCarImage": "إضافة صورة السيارة",
+  "chooseFile": "اختر ملف",
+  "imageFormats": "صيغة JPG و PNG",
+  "enterVehicleName": "أدخل اسم المركبة",
+  "enterRegistrationNumber": "أدخل رقم التسجيل",
+  "skip": "تخطي",
+  "next": "التالي",
+  "getStarted": "ابدأ الآن",
+
+  "onboardingTitle1": "تنظيف احترافي بسهولة",
+  "onboardingTitle2": "تتبع مباشر وشفافية",
+  "onboardingTitle3": "جودة يمكنك الوثوق بها",
+
+  "onboardingDesc1": "احجز خدمات تنظيف المركبات والخدمات الاحترافية المُدارة بالكامل بواسطة نظام موثوق بدون تخمين أو تنازلات.",
+
+  "onboardingDesc2": "من الحجز حتى الانتهاء، تتبع خدمتك في الوقت الفعلي وشاهد صور التحقق قبل وبعد الخدمة.",
+
+  "onboardingDesc3": "يتم تعيين كل مهمة ومراقبتها والتحقق منها بواسطة نظام إداري لضمان الجودة والخدمة الموثوقة."
+}

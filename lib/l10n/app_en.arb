@@ -1,0 +1,100 @@
+{
+  "@@locale": "en",
+
+  "appName": "Wa Peke",
+  "loading": "Loading...",
+  "smartVehicle": "Smart Vehicle Service Platform",
+
+  "login": "Login",
+  "verifyOtp": "Verify OTP",
+  "enterOtp": "Enter OTP",
+  "verify": "Verify",
+  "enterMobile": "Enter Mobile Number",
+
+  "welcome": "Welcome",
+  "quickActions": "Quick Actions",
+  "vehicles": "Vehicles",
+  "myVehicles": "My Vehicles",
+  "services": "Services",
+  "manageServices": "Manage your services easily",
+
+  "addVehicle": "Add Vehicle",
+  "vehicleName": "Vehicle Name",
+  "vehicleType": "Vehicle Type",
+  "registrationNumber": "Registration Number",
+  "selectVehicleImage": "Select Vehicle Image",
+
+  "noVehiclesFound": "No Vehicles Found",
+  "noServicesFound": "No Services Found",
+
+  "deleteVehicle": "Delete Vehicle",
+  "areYouSure": "Are you sure?",
+
+  "cancel": "Cancel",
+  "delete": "Delete",
+
+  "somethingWentWrong": "Something went wrong",
+  "requiredField": "This field is required",
+
+  "otpSentSuccessfully": "OTP sent successfully",
+  "failedToSendOtp": "Failed to send OTP",
+  "loginSuccessful": "Login successful",
+  "invalidOtp": "Invalid OTP",
+  "vehicleAddedSuccessfully": "Vehicle added successfully",
+  "failedToAddVehicle": "Failed to add vehicle",
+  "vehicleDeletedSuccessfully": "Vehicle deleted successfully",
+  "failedToDeleteVehicle": "Failed to delete vehicle",
+  "language": "Language",
+  "invalidMobileNumber": "Invalid mobile number",
+  "enterValidEmailOrMobile": "Enter valid email or mobile",
+  "vehicleNumberRequired": "Vehicle number required",
+  "invalidVehicleNumber": "Invalid vehicle number",
+
+
+  "signInToAccount": "Sign in to your\nAccount",
+  "dontHaveAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "sendOtp": "Send OTP",
+  "termsLine": "By signing up, you agree to the ",
+  "termsOfService": "Terms of Service",
+  "privacyPolicy": "Privacy Policy",
+  "and": "and",
+
+  "activeServices": "Active Services",
+
+  "retry": "Retry",
+
+  "home": "Home",
+
+  "settings": "Settings",
+
+  "logout": "Logout",
+
+  "bookNow": "Book Now",
+  "enterCode": "Enter Code",
+  "otpDescription": "We've sent an SMS with an activation code to your phone ",
+  "sendCodeAgain": "Send code again",
+  "chooseVehicleType": "Choose Vehicle Type",
+  "fourWheeler": "Four Wheeler",
+  "twoWheeler": "Two Wheeler",
+  "continueText": "Continue",
+  "change": "Change",
+  "addCarImage": "Add Car Image",
+  "chooseFile": "Choose file",
+  "imageFormats": "JPG, PNG format",
+  "enterVehicleName": "Enter Vehicle Name",
+  "enterRegistrationNumber": "Enter Registration Number",
+    "skip": "Skip",
+    "next": "Next",
+    "getStarted": "Get Started",
+
+    "onboardingTitle1": "Professional Cleaning, Simplified",
+    "onboardingTitle2": "Live Tracking & Transparency",
+    "onboardingTitle3": "Quality You Can Trust and Validate",
+
+    "onboardingDesc1": "Book vehicle and professional cleaning services managed end-to-end by a verified system no guesswork, no compromises.",
+
+    "onboardingDesc2": "From booking to completion, track your service in real time and view verified before-and-after proof.",
+
+    "onboardingDesc3": "Every job is assigned, monitored, and validated by an admin-controlled system to ensure quality and reliable service."
+}
