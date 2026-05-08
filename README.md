@@ -1,16 +1,71 @@
-# task_tejas
+# Wa Peke - Flutter Assignment
 
-A new Flutter project.
+A modern Flutter application built with scalable architecture, responsive UI, localization support, secure authentication, vehicle management, and service booking flow.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Authentication
+- OTP based login flow
+- API integration using Dio
+- Secure token storage
+- Splash + onboarding navigation handling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###  Localization
+- English & Arabic language support (bug so transaltion is not working but already all keywords are converted)
+- Dynamic language switching
+- RTL support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Vehicle Module
+- Add vehicle flow
+- Vehicle type selection
+- Multipart image upload
+- Vehicle listing with responsive grid UI
+- Empty state & loading handling
+
+### Services Module
+- Active services listing
+- Production-level service cards
+- Pull to refresh
+- Responsive layouts
+
+###  UI/UX
+- Fully responsive design
+- Figma-based implementation
+- MediaQuery + LayoutBuilder support
+- Custom onboarding experience
+- Reusable widgets & themes
+
+### Architecture
+- Clean Architecture
+- Provider State Management
+- Repository Pattern
+- Feature-based folder structure
+
+---
+
+## Tech Stack
+
+- Flutter
+- Provider
+- Go Router
+- Dio
+- Flutter Localization
+- Cached Network Image
+- Secure Storage
+
+
+---
+
+## 📂 Project Highlights
+
+- Scalable codebase
+- Proper error handling
+- Reusable components
+- Clean and maintainable architecture
+
+---
+
+## 👨‍💻 Developed By
+
+Tejas Pawar
