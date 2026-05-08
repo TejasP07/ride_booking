@@ -1,4 +1,4 @@
-# Wa Peke - Flutter Assignment
+# Flutter Project
 
 A modern Flutter application built with scalable architecture, responsive UI, localization support, secure authentication, vehicle management, and service booking flow.
 
